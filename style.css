@@ -9,3 +9,12 @@ h1 {
 h2 {
     font-size: 28px;
 }
+
+ul {
+    display: flex;
+}
+
+li {
+    background-color: yellow;
+    width: 200px;
+}
